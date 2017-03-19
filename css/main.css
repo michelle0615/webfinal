@@ -16,7 +16,7 @@ header {
 h1 {
   font-size: 50pt;
   color: #000000;
-  padding: 10%;
+  padding: 50px;
 }
 
 header p {
@@ -25,9 +25,7 @@ header p {
   align-items: right;
 }
 
-img{
-  width: 50%;
-}
+
 
 .wrapper {
   display: flex;
@@ -53,7 +51,7 @@ section {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  max-width: 200px;
+  width: 20%;
   margin: 20px;
 }
 
