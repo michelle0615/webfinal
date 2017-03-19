@@ -30,7 +30,7 @@ header p {
 .headerimage{
   display: flex;
   justify-content: center;
-  max-width: 50%;
+  
 }
 
 .wrapper {
@@ -61,6 +61,7 @@ img {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
+  margin: 10px;
   
 }
 
