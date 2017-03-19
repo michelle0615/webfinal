@@ -16,14 +16,18 @@ header {
 h1 {
   font-size: 50pt;
   color: #000000;
+  padding: 10%;
 }
 
 header p {
   color: #000000;
   font-size: 20px;
-  align-items: center;
+  align-items: right;
 }
 
+img{
+  width: 50%;
+}
 
 .wrapper {
   display: flex;
