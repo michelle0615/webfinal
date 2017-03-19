@@ -23,7 +23,7 @@ header p {
   #ffffff, #ffb7d2);
   display: flex;
   justify-content: center;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
 }
 
 /*
@@ -40,7 +40,7 @@ section {
 
 .image {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   justify-content: space-around;
   max-width: 10%;
 }
