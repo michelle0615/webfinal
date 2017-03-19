@@ -17,6 +17,7 @@ header {
 h1 {
   font-size: 30pt;
   color: #000000;
+  align-items: center;
   
 }
 
@@ -29,7 +30,7 @@ header p {
 
 .headerimage{
   display: flex;
-  justify-content: center;
+  align-items: center;
   
 }
 
