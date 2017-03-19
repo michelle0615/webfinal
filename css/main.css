@@ -16,7 +16,7 @@ header {
   
 }
 header p {
-  color: #FFFFFF;
+  color: #000000;
   font-size: 20px;
   align-items: center;
   
@@ -51,7 +51,7 @@ section {
 
 
 p {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Abel', sans-serif;
   line-height: 1.75;
 }
