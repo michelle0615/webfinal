@@ -17,13 +17,14 @@ header {
 h1 {
   font-size: 30pt;
   color: #000000;
-  padding: 50px;
+  
 }
 
 header p {
   color: #000000;
   font-size: 20px;
-  align-items: right;
+  align-items: center;
+  padding: 200px;
 }
 
 
