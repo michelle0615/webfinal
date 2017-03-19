@@ -24,6 +24,8 @@ header p {
   display: flex;
   justify-content: center;
   flex-flow: row nowrap;
+  max-width: 1200px;
+  margin: auto;
 }
 
 /*
@@ -41,8 +43,8 @@ section {
 .image {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-around;
-  max-width: 10%;
+  align-items: center;
+  max-width: 200px;
 }
 
 
