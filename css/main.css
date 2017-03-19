@@ -14,7 +14,7 @@ header {
 }
 
 h1 {
-  font-size: 50pt;
+  font-size: 30pt;
   color: #000000;
   padding: 50px;
 }
@@ -47,11 +47,14 @@ section {
 }
 */
 
+img {
+  width: 20%;
+}
+
 .image {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  width: 20%;
   margin: 20px;
 }
 
