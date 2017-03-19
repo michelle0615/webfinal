@@ -27,7 +27,11 @@ header p {
   padding: 200px;
 }
 
-
+.headerimage{
+  display: flex;
+  justify-content: center;
+  max-width: 10%;
+}
 
 .wrapper {
   display: flex;
