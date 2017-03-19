@@ -6,12 +6,12 @@
 
 header {
   display: flex;
+  flex-flow: row nowrap;
   background-color: none;
   width: 800px;
   height: 200px;
-  justify-content: center;
   align-items: center;  
-  padding: 50px;
+  
 }
 
 h1 {
@@ -24,13 +24,13 @@ header p {
   color: #000000;
   font-size: 20px;
   align-items: center;
-  padding: 200px;
+  
 }
 
 .headerimage{
   display: flex;
   justify-content: center;
-  max-width: 10%;
+  max-width: 50%;
 }
 
 .wrapper {
@@ -61,7 +61,7 @@ img {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  margin: 20px;
+  
 }
 
 
