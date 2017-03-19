@@ -23,7 +23,7 @@ header p {
   #ffffff, #ffb7d2);
   display: flex;
   justify-content: center;
-  flex-flow: row nowrap;
+  flex-flow: column nowrap;
   max-width: 1200px;
   margin: auto;
 }
