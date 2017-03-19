@@ -17,10 +17,11 @@ header {
 }
 header p {
   color: #FFFFFF;
+  font-size: 20px;
+  align-items: center;
+  
 }
 .wrapper {
-  background: linear-gradient(
-  #ffffff, #ffb7d2);
   display: flex;
   justify-content: center;
   flex-flow: column nowrap;
