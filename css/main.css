@@ -14,11 +14,17 @@ header {
   
 }
 
-h1,h2 {
+h1{
   font-size: 30pt;
   color: #000000;
   align-items: center;
   
+}
+
+h2 {
+  font-size: 20px;
+  color: #000000;
+  align-items: center;
 }
 
 header p {
