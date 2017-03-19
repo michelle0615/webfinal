@@ -42,17 +42,17 @@ header p {
   margin: auto;
 }
 
-/*
+
 section {
   display: flex;
   flex-flow: column nowrap;
   width: 800px;
-  height: 300px;
+  height: 1200px;
   text-align: center;
   margin: 0px;
-  background: #FFFFFF;
+  background: none;
 }
-*/
+
 
 
 
