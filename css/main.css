@@ -14,7 +14,7 @@ header {
   
 }
 
-h1 {
+h1,h2 {
   font-size: 30pt;
   color: #000000;
   align-items: center;
