@@ -1,11 +1,11 @@
 *{
 	background: linear-gradient(#f98277, #f9b376,#f9f476,#8ef976,#76cff9,#9f76f9);
-	
 
 }
 
 .wrapper {
 	max-width: 80%;
+	border: 1px solid red;
 	margin: 0 auto;
 	
 }
@@ -39,25 +39,25 @@ section {
 }
 
 h1{
-	background:rgba(255,255,255, 0.5);
+	background: none;
+	font-family: 'Galdeano', sans-serif;
 	color: #5f5f60;
 	font-size: 5em;
 	text-align: center;
-	font-family: 'Galdeano', sans-serif;
 	
 }
 
 h2 {
-	background:rgba(255,255,255, 0.5);
+	background: none;
+	font-family: 'Galdeano', sans-serif;
 	color: #5f5f60;
 	font-size: 2em;
-	font-family: 'Galdeano', sans-serif;
 }
 p {
-	background:rgba(255,255,255, 0.5);
+	background: none;
+	font-family: 'Galdeano', sans-serif;
 	color: #5f5f60;
 	font-size: 1.5em;
 	line-height: 1.75;
 	text-align: center;
-	font-family: 'Galdeano', sans-serif;
 }
