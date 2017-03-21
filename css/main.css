@@ -21,7 +21,7 @@ header {
 	display: flex;
 	flex-flow: column nowrap;
 	justify-content: center;
-	background-color: #ffffff;
+	background-color: none;
 	max-width: 100%;
 }
 
@@ -64,7 +64,8 @@ p {
 
 
 @media (min-width: 500px;) {
-	display:flex;
-	flex-flow: column nowrap;
-	justify-content: center;
+	display: block;
+	margin: auto;
+	width: 40%;
+	
 }
