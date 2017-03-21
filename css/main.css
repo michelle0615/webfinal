@@ -21,7 +21,7 @@ header {
 	display: flex;
 	flex-flow: column nowrap;
 	justify-content: center;
-	background: none;
+	background: #ffffff;
 	max-width: 100%;
 }
 
