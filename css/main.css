@@ -22,7 +22,7 @@ header {
 	flex-flow: column nowrap;
 	justify-content: center;
 	background-color: background:rgba(255,255,255, 0.5);
-	max-width: 100%;
+	max-width: 50%;
 }
 
 section {
@@ -68,6 +68,6 @@ p {
 	display: block;
 	position:absolute;
 	margin: auto;
-	width: 100%;
+	
 	
 }
