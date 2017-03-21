@@ -1,5 +1,6 @@
 *{
 	background: linear-gradient(#f98277, #f9b376,#f9f476,#8ef976,#76cff9,#9f76f9);
+	font-family: 'Galdeano', sans-serif;
 
 }
 
@@ -39,7 +40,6 @@ section {
 
 h1{
 	background: none;
-	font-family: 'Changa One', cursive;
 	color: #5f5f60;
 	font-size: 5em;
 	text-align: center;
@@ -47,14 +47,12 @@ h1{
 }
 
 h2 {
-	background: none;
-	font-family: 'Changa One', cursive;
+	background: none
 	color: #5f5f60;
 	font-size: 2em;
 }
 p {
 	background: none;
-	font-family: 'Galdeano', sans-serif;
 	color: #5f5f60;
 	font-size: 1.5em;
 	line-height: 1.75;
