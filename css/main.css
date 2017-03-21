@@ -21,7 +21,7 @@ header {
 	display: flex;
 	flex-flow: column nowrap;
 	justify-content: center;
-	background-color: none;
+	background-color: background:rgba(255,255,255, 0.5);
 	max-width: 100%;
 }
 
@@ -63,7 +63,7 @@ p {
 }
 
 
-@media (max-width: 500px;) 
+@media (max-width: 200px;) 
    .section {
 	display: block;
 	position:absolute;
