@@ -39,7 +39,7 @@ section {
 }
 
 h1{
-	background: none;
+	background:rgba(255,255,255, 0.5);
 	color: #5f5f60;
 	font-size: 5em;
 	text-align: center;
@@ -48,13 +48,13 @@ h1{
 }
 
 h2 {
-	background: none;
+	background:rgba(255,255,255, 0.5);
 	color: #5f5f60;
 	font-size: 2em;
 	font-family: 'Galdeano', sans-serif;
 }
 p {
-	background: none;
+	background:rgba(255,255,255, 0.5);
 	color: #5f5f60;
 	font-size: 1.5em;
 	line-height: 1.75;
